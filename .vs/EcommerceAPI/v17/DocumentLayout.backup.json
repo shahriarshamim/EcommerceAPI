@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|h:\\ostad_asp.net\\project\\ecommerceapi\\ecommerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|h:\\ostad_asp.net\\project\\ecommerceapi\\ecommerceapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|h:\\ostad_asp.net\\project\\ecommerceapi\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|h:\\ostad_asp.net\\project\\ecommerceapi\\ecommerceapi\\model\\entites\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\model\\entites\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|h:\\ostad_asp.net\\project\\ecommerceapi\\ecommerceapi\\model\\dtos\\productcratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\model\\dtos\\productcratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|h:\\ostad_asp.net\\project\\ecommerceapi\\ecommerceapi\\model\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\model\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|h:\\ostad_asp.net\\project\\ecommerceapi\\ecommerceapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|h:\\ostad_asp.net\\project\\ecommerceapi\\ecommerceapi\\model\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\model\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|h:\\ostad_asp.net\\project\\ecommerceapi\\ecommerceapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|h:\\ostad_asp.net\\project\\ecommerceapi\\ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|h:\\ostad_asp.net\\project\\ecommerceapi\\ecommerceapi\\model\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\model\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|h:\\ostad_asp.net\\project\\ecommerceapi\\ecommerceapi\\model\\dtos\\productreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A35CAA-11D5-4F33-9474-C30E0B8CD11F}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\model\\dtos\\productreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Model\\Entites\\Category.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Model\\Entites\\Category.cs",
+              "ToolTip": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Model\\Entites\\Category.cs",
+              "RelativeToolTip": "EcommerceAPI\\Model\\Entites\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:51:02.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAqwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:19:04.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EcommerceAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:32:05.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Program.cs",
+              "ToolTip": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Program.cs",
+              "RelativeToolTip": "EcommerceAPI\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:46:41.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Model\\Entites\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Model\\Entites\\ProductCategory.cs",
+              "ToolTip": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Model\\Entites\\ProductCategory.cs",
+              "RelativeToolTip": "EcommerceAPI\\Model\\Entites\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:52:27.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Repositories\\IProductRepository.cs",
+              "ToolTip": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "EcommerceAPI\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:10:24.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Model\\DTOs\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Model\\DTOs\\ProductUpdateDto.cs",
+              "ToolTip": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Model\\DTOs\\ProductUpdateDto.cs",
+              "RelativeToolTip": "EcommerceAPI\\Model\\DTOs\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:12:29.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCrateDto.cs",
+              "DocumentMoniker": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Model\\DTOs\\ProductCrateDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Model\\DTOs\\ProductCrateDto.cs",
+              "ToolTip": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Model\\DTOs\\ProductCrateDto.cs",
+              "RelativeToolTip": "EcommerceAPI\\Model\\DTOs\\ProductCrateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:42:53.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Repositories\\ProductRepository.cs",
+              "ToolTip": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "EcommerceAPI\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:14:48.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductReadDto.cs",
+              "DocumentMoniker": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Model\\DTOs\\ProductReadDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Model\\DTOs\\ProductReadDto.cs",
+              "ToolTip": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Model\\DTOs\\ProductReadDto.cs",
+              "RelativeToolTip": "EcommerceAPI\\Model\\DTOs\\ProductReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:49:28.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Model\\Entites\\Product.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Model\\Entites\\Product.cs",
+              "ToolTip": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\Model\\Entites\\Product.cs",
+              "RelativeToolTip": "EcommerceAPI\\Model\\Entites\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:57:20.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceAPI\\appsettings.json",
+              "ToolTip": "H:\\Ostad_Asp.Net\\Project\\EcommerceAPI\\EcommerceAPI\\appsettings.json",
+              "RelativeToolTip": "EcommerceAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T04:28:11.104Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
